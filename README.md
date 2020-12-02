@@ -1,6 +1,7 @@
 # Cards
 
-**TODO: Add description**
+**Description**
+An Elixir program which creates and deals a hand of playing cards
 
 ## Installation
 
